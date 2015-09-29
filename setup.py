@@ -12,6 +12,7 @@ install_requires = [
     'click',
     'six',
     'twisted',
+    'zope',
 ]
 
 
